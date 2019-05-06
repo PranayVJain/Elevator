@@ -1,17 +1,18 @@
 package com.pranay.elevator;
 
 public class Elevator {
+	
+	int floor;
 
 	public static void main(String a[]){
 	 try{
 	 	int a = 10;
-	 }catch(Exception e){
+	 }catch(IOException e){
 	 
 	 }
 	 
 	}
 	
-	int floor;
 
 	public Elevator() {
 		super();
